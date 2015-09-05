@@ -32,6 +32,7 @@
     "rimraf": "~2.2.8",
     "semver": "~4.3.6",
     "tar": "~1.0.3",
+    "verror": "^1.6.0",
     "which": "~1.0.8"
   },
   "devDependencies": {
